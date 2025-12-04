@@ -1,7 +1,7 @@
 
   # LUXEDRIVE
 
-  This is a code bundle for LUXEDRIVE. The original project is available at https://ww
+  This is a code bundle for LUXEDRIVE. The original project is available at https://luxedrive-vert.vercel.app/
 
   ## Running the code
 
