@@ -135,7 +135,7 @@ export default function Navbar() {
       <AnimatePresence>
         {isOpen && (
           <motion.div
-            initial={{ opacity: 0, height: 0 }}
+            initial={{ opacity: 0, height: 0 }} 
             animate={{ opacity: 1, height: 'auto' }}
             exit={{ opacity: 0, height: 0 }}
             className="md:hidden bg-white dark:bg-gray-900 border-t border-gray-200 dark:border-gray-800"

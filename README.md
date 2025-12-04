@@ -1,7 +1,7 @@
 
   # LUXEDRIVE
 
-  This is a code bundle for LUXEDRIVE. The original project is available at https://www.figma.com/design/QpzOLgLQJnWia7aTYjyuhE/LUXEDRIVE.
+  This is a code bundle for LUXEDRIVE. The original project is available at https://ww
 
   ## Running the code
 
